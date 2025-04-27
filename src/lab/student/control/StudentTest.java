@@ -1,6 +1,6 @@
-package lab.control;
+package lab.student.control;
 
-import lab.entity.Student;
+import lab.student.entity.Student;
 
 public class StudentTest {
 

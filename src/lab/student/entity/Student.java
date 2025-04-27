@@ -1,4 +1,4 @@
-package lab.entity;
+package lab.student.entity;
 
 public class Student {
 	private String studentId;
