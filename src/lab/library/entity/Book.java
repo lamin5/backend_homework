@@ -80,7 +80,7 @@ public class Book {
 	@Override
 	public String toString() {
 		String availabilityStatus = isAvailable ? "가능" : "대출 중";
-		return "책제목: " + getTitle() + "저자: " + getAuthor() + "ISBN: " + getIsbn() + "출판년도: " + getPublishYear() +"대출 가능 여부: " + availabilityStatus ;
+		return "책제목: " + getTitle() + "		저자: " + getAuthor() + "		ISBN: " + getIsbn() + "		출판년도: " + getPublishYear() +"		대출 가능 여부: " + availabilityStatus ;
 	}
 	
 }
